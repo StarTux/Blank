@@ -1,0 +1,16 @@
+main: com.cavetale.blank.BlankPlugin
+name: Blank
+load: STARTUP
+
+version: 0.1
+api-version: 1.19
+
+author: StarTux
+website: https://github.com/StarTux/Blank
+description: Blank World Generator
+
+depend: []
+softdepend: []
+
+commands: {}
+permissions: {}
